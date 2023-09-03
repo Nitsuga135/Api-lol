@@ -1,0 +1,1120 @@
+[
+ {
+  "id": 1,
+  "name": "Atrox",
+  "habilidades": [
+   "../../styles/img/habilidades/AatroxQ.webp",
+   "../../styles/img/habilidades/AatroxW.webp",
+   "../../styles/img/habilidades/AatroxE.webp",
+   "../../styles/img/habilidades/AatroxR.webp",
+   "../../styles/img/habilidades/Aatrox_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Aatrox-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Aatrox.webp",
+  "region": [
+   "Runeterra",
+   "Shurima"
+  ],
+  "year": "2013",
+  "range": [
+   "Melee"
+  ],
+  "sex": "Male",
+  "position": [
+   "Top"
+  ],
+  "resource": "Manaless",
+  "species": [
+   "Darkin"
+  ],
+  "lore": "Ya sea que la confundan con un demonio o con un dios, son varios los relatos que se cuentan sobre la Espada Darkin... pero pocos conocen su verdadero nombre, o la historia de su caída.En la antigüedad, mucho antes de que las arenas de los desiertos se tragaran al imperio, un poderoso campeón de Shurima fue presentado frente al Disco Solar para convertirse en el avatar de un ideal celestial ahora olvidado. Reconstruido como uno de los Ascendidos, sus alas eran la luz dorada del amanecer y su armadura brillaba como una constelación de esperanza desde más allá del gran velo. Su nombre: Aatrox. Estaba en la vanguardia de cada conflicto noble. Su conducta y él mismo eran tan justos que los otros dioses guerreros siempre se reunían a su lado, mientras que diez mil mortales de Shurima marchaban detrás de él. Cuando Setaka, la reina guerrera Ascendida, solicitó su ayuda contra la rebelión de Icathia, Aatrox le respondió sin dudarlo. Pero nadie predijo la dimensión de los horrores que desatarían los rebeldes; el Vacío rápidamente abrumó a los maestros de Icathia y comenzó la aniquilación de toda la vida que encontró a su paso. Después de varios años de batallas desesperadas, Aatrox y sus hermanos finalmente detuvieron el perverso avance del Vacío y sellaron las grietas más grandes. Pero los Ascendidos sobrevivientes, los que se autonombraban Nacidos del Sol, habían cambiado para siempre debido a lo que se habían enfrentado. Si bien Shurima había triunfado, todos ellos perdieron algo en esa victoria... incluso el noble Aatrox. Y con el tiempo, Shurima cayó, tal como deben caer todos los imperios. Sin un monarca al cual defender, o la amenaza contra la existencia con la que el Vacío los ponía a prueba, Aatrox y los Nacidos del Sol comenzaron a enfrentarse unos con otros, hasta que eso se convirtió en una guerra por las ruinas de su mundo. Los mortales que huían del conflicto los conocieron por un nombre nuevo y despectivo: los darkin. Temiendo que los Ascendidos derrotados fueran tan peligrosos para la supervivencia de Runaterra como lo habían sido las incursiones del Vacío, los targonianos intervinieron. Se dice que el Aspecto del Crepúsculo les otorgó a los mortales el conocimiento para atrapar a los darkin, y el recién renacido Aspecto de la Guerra unió a varios en su combate contra ellos. Sin temerle jamás a ningún enemigo, Aatrox y sus ejércitos estaban listos, pero se percató demasiado tarde de que habían sido engañados. Una fuerza mayor a la de mil soles muertos lo jaló hacia el interior de la espada que había usado en la batalla en incontables ocasiones, y unió para siempre su esencia inmortal a ella. El arma era una prisión que encerró a su conciencia en una oscuridad sofocante y eterna, usurpándole incluso su capacidad de morir. Durante siglos, forcejeó contra su confinamiento infernal... hasta que un mortal desconocido fue lo suficientemente tonto como para intentar blandir la espada una vez más. Aatrox aprovechó esta oportunidad e impuso su voluntad y una imitación de su forma original en su portador, un proceso que drenó rápidamente toda la vida del cuerpo nuevo. En los años siguientes, Aatrox preparó a muchos más huéspedes, hombres y mujeres poseedores de una vitalidad o fortaleza excepcionales. Si bien su entendimiento de ese tipo de magia fue limitado durante su vida, aprendió a tomar el control de un mortal en el intervalo de una sola respiración y, en la batalla, descubrió que podía deleitarse con sus víctimas para hacerse más grande y fuerte que nunca. Aatrox recorrió la tierra, buscando desesperadamente y sin cesar una manera de regresar a su forma anterior de Ascendido... pero el acertijo de la espada parecía no tener solución, y con el tiempo se dio cuenta de que nunca podría liberarse de ello. La carne que robaba y burdamente moldeaba comenzó a sentirse como una farsa en comparación con su antigua gloria, como si fuera una jaula un poco más grande que la espada. La desesperanza y el odio crecieron en su corazón. Los poderes divinos que Aatrox había encarnado alguna vez habían sido borrados del mundo y de la historia. Enfurecido contra esta injusticia, optó por una solución que solo podía emerger de la desesperación de un prisionero. Si no podía destruir la espada o liberarse, entonces asumiría el olvido. Ahora, Aatrox se dirige hacia esta meta despiadada, llevando la guerra y la muerte a donde sea que vaya. Se aferra a una esperanza ciega: si pudiera llevar a toda la creación a una batalla final y apocalíptica, en la que todo, todo lo demás termine destruido, entonces tal vez él y la espada también dejen de existir.",
+  "phrase": "'Debo destruir hasta la esperanza...'"
+ },
+ {
+  "id": 2,
+  "name": "Ahri",
+  "habilidades": [
+   "../../styles/img/habilidades/AhriQ.webp",
+   "../../styles/img/habilidades/AhriW.webp",
+   "../../styles/img/habilidades/AhriE.webp",
+   "../../styles/img/habilidades/AhriR.webp",
+   "../../styles/img/habilidades/Ahri_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Ahri-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Ahri.webp",
+  "region": [
+   "Jonia"
+  ],
+  "year": "2011",
+  "range": [
+   "Range"
+  ],
+  "sex": "Female",
+  "position": [
+   "Mid"
+  ],
+  "resource": "Maná",
+  "species": [
+   "Vastaya"
+  ],
+  "lore": "Ahri es una raposa vastaya conectada de forma innata a la magia del reino de los espíritus. Es capaz de manipular las emociones de su presa antes de consumir su esencia, proceso que le transmite los recuerdos de cada alma que consume. Otrora una poderosa pero incontrolable depredadora, Ahri ahora viaja por el mundo en busca de vestigios de sus antepasados mientras intenta reemplazar los recuerdos robados por otros propios.",
+  "phrase": "'Las emociones humanas pueden ser más volátiles que la magia más profunda'"
+ },
+ {
+  "id": 3,
+  "name": "Akali",
+  "habilidades": [
+   "../../styles/img/habilidades/AkaliQ.webp",
+   "../../styles/img/habilidades/AkaliW.webp",
+   "../../styles/img/habilidades/AkaliE.webp",
+   "../../styles/img/habilidades/AkaliR.webp",
+   "../../styles/img/habilidades/Akali_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Akali-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Akali.webp",
+  "region": [
+   "Jonia"
+  ],
+  "year": "2010",
+  "range": [
+   "Melee"
+  ],
+  "sex": "Female",
+  "position": [
+   "Mid",
+   "Top"
+  ],
+  "resource": "Energía",
+  "species": [
+   "Humano"
+  ],
+  "lore": "Tras renunciar a la Orden Kinkou y a su título como el Puño de la Sombra, Akali pelea sola, lista para ser el arma letal que su pueblo necesita. Aunque conserva todo lo que aprendió de su maestro Shen, juró defender a Jonia de sus enemigos, una muerte a la vez. Puede que Akali ataque en silencio, pero su mensaje resonará con fuerza y claridad: teman a la asesina sin maestro.",
+  "phrase": "''Si pareces peligroso, más vale que lo seas''."
+ },
+ {
+  "id": 4,
+  "name": "Akshan",
+  "habilidades": [
+   "../../styles/img/habilidades/AkshanQ.webp",
+   "../../styles/img/habilidades/AkshanW.webp",
+   "../../styles/img/habilidades/AkshanE.webp",
+   "../../styles/img/habilidades/AkshanR.webp",
+   "../../styles/img/habilidades/Akshan_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Akshan-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Akshan.webp",
+  "region": [
+   "Shurima"
+  ],
+  "year": "2021",
+  "range": [
+   "Range"
+  ],
+  "sex": "Male",
+  "position": [
+   "Mid",
+   "Top"
+  ],
+  "resource": "Maná",
+  "species": [
+   "Humano"
+  ],
+  "lore": "Con una ceja levantada frente al peligro, Akshan pelea contra el mal con un carisma deslumbrante, un deseo de venganza justo y una llamativa falta de camisetas. Habilidoso en el arte del combate furtivo, es capaz de evadir a sus enemigos y reaparecer cuando menos se lo esperan. Con un profundo sentido de la justicia y un arma legendaria que desafía a la muerte, corrige las injusticias cometidas por los rufianes de Runaterra mientras se rige por su propio código moral: ''No seas un imbécil''.",
+  "phrase": "''No todas las cosas pasan por algo. Algunas se tienen que descifrar''."
+ },
+ {
+  "id": 5,
+  "name": "Alistar",
+  "habilidades": [
+   "../../styles/img/habilidades/AlistarQ.webp",
+   "../../styles/img/habilidades/AlistarW.webp",
+   "../../styles/img/habilidades/AlistarE.webp",
+   "../../styles/img/habilidades/AlistarR.webp",
+   "../../styles/img/habilidades/Alistar_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Alistar-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Alistar.webp",
+  "region": [
+   "Runeterra"
+  ],
+  "year": "2009",
+  "range": [
+   "Melee"
+  ],
+  "sex": "Male",
+  "position": [
+   "Sup"
+  ],
+  "resource": "Maná",
+  "species": [
+   "Minotauro"
+  ],
+  "lore": "Alistar, que desde siempre fue un gran guerrero con una temible reputación, busca venganza por la muerte de su clan a manos del imperio noxiano. Aunque haya sido esclavizado y forzado a tener una vida de gladiador, su voluntad inquebrantable fue lo que impidió que se convirtiera en una bestia completamente. Ahora, libre de las cadenas de sus anteriores amos, pelea en nombre de los desamparados y desprotegidos usando tanto su furia como sus cuernos, pezuñas y puños como armas.",
+  "phrase": "''No puedes ordeñar estas!!!''"
+ },
+ {
+  "id": 6,
+  "name": "Amumu",
+  "habilidades": [
+   "../../styles/img/habilidades/AmumuQ.webp",
+   "../../styles/img/habilidades/AmumuW.webp",
+   "../../styles/img/habilidades/AmumuE.webp",
+   "../../styles/img/habilidades/AmumuR.webp",
+   "../../styles/img/habilidades/Amumu_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Amumu-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Amumu.webp",
+  "region": [
+   "Shurima"
+  ],
+  "year": "2009",
+  "range": [
+   "Melee"
+  ],
+  "sex": "Male",
+  "position": [
+   "Sup",
+   "Jg"
+  ],
+  "resource": "Maná",
+  "species": [
+   "Yordel"
+  ],
+  "lore": "Cuenta la leyenda que Amumu es un alma solitaria y melancólica de la antigua Shurima que vaga por el mundo en busca de un amigo. Una antigua maldición lo condenó a permanecer solo por toda la eternidad. Sus caricias son la muerte, su afecto es la ruina. Quienes afirman haberlo visto lo describen como un cadáver viviente de corta estatura envuelto en vendajes. Amumu ha sido la inspiración de mitos, canciones y folclore que se han contado una y otra vez a lo largo de generaciones, tanto que es imposible separar la verdad de la ficción.",
+  "phrase": "''La soledad puede ser más solitaria que la muerte''"
+ },
+ {
+  "id": 7,
+  "name": "Anivia",
+  "habilidades": [
+   "../../styles/img/habilidades/AniviaQ.webp",
+   "../../styles/img/habilidades/AniviaW.webp",
+   "../../styles/img/habilidades/AniviaE.webp",
+   "../../styles/img/habilidades/AniviaR.webp",
+   "../../styles/img/habilidades/Anivia_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Anivia-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Anivia.webp",
+  "region": [
+   "Freljord"
+  ],
+  "year": "2009",
+  "range": [
+   "Range"
+  ],
+  "sex": "Female",
+  "position": [
+   "Mid"
+  ],
+  "resource": "Maná",
+  "species": [
+   "Dios",
+   "Espíritu"
+  ],
+  "lore": "Anivia es un espíritu benevolente alado que soporta interminables ciclos de vida, muerte y resurrección para proteger Fréljord. Nació de la unión del hielo cruel y del viento penetrante, por lo que es una semidiosa que utiliza esos poderes elementales para frustrar a quien se atreva a perturbar su tierra natal. Anivia guía y protege a las tribus del norte hostil, quienes la veneran como símbolo de esperanza y como presagio de un gran cambio. Pelea con cada fibra de su ser sabiendo que su recuerdo perdurará a través de su sacrificio y que renacerá en un nuevo mañana.",
+  "phrase": "''Soy la ira de la ventisca, la mordacidad del viento y el frío del hielo. Yo soy Fréljord''"
+ },
+ {
+  "id": 8,
+  "name": "Annie",
+  "habilidades": [
+   "../../styles/img/habilidades/AnnieQ.webp",
+   "../../styles/img/habilidades/AnnieW.webp",
+   "../../styles/img/habilidades/AnnieE.webp",
+   "../../styles/img/habilidades/AnnieR.webp",
+   "../../styles/img/habilidades/Annie_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Annie-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Annie.webp",
+  "region": [
+   "Noxus",
+   "Runeterra"
+  ],
+  "year": "2009",
+  "range": [
+   "Range"
+  ],
+  "sex": "Female",
+  "position": [
+   "Mid",
+   "Sup"
+  ],
+  "resource": "Maná",
+  "species": [
+   "Humano",
+   "Nacido con magia"
+  ],
+  "lore": "Peligrosa y encantadora, Annie es una niña con un gran poder piromántico. Incluso en las sombras de las montañas al norte de Noxus, es una maga excepcional. Su afinidad innata con el fuego se manifestó de forma precoz a través de explosiones emocionales impredecibles, aunque aprendió con el tiempo a controlar esos ''trucos inocentes''. Uno de sus favoritos es invocar a su amado osito de peluche Tibbers como su feroz protector. Annie vaga por los bosques oscuros siempre en busca de alguien con quien jugar, perdida en la perpetua inocencia de la niñez.",
+  "phrase": "''Yo nunca juego con cerillos''"
+ },
+ {
+  "id": 9,
+  "name": "Aphelios",
+  "habilidades": [
+   "../../styles/img/habilidades/ApheliosQ.webp",
+   "../../styles/img/habilidades/ApheliosW.webp",
+   "../../styles/img/habilidades/ApheliosE.webp",
+   "../../styles/img/habilidades/Aphelios.webp",
+   "../../styles/img/habilidades/Aphelios_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Aphelios-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Aphelios.webp",
+  "region": [
+   "Targon"
+  ],
+  "year": "2019",
+  "range": [
+   "Range"
+  ],
+  "sex": "Male",
+  "position": [
+   "ADC"
+  ],
+  "resource": "Maná",
+  "species": [
+   "Humano",
+   "Espiritualista"
+  ],
+  "lore": "Aphelios emerge de la sombra de la luz de la luna con las armas desenvainadas y mata a los enemigos de su fe en un silencio melancólico. Habla únicamente a través de la certeza de su puntería y del disparo de cada arma. Si bien su impulso proviene de un veneno que lo enmudece, es guiado por su hermana Alune, quien, desde un santuario lejano, le envía a sus manos un arsenal de armas de piedra lunar. Mientras la luna resplandezca en lo alto, Aphelios nunca estará solo.",
+  "phrase": "''El destino corrobora nuestra fe cada vez que lo negamos''"
+ },
+ {
+  "id": 10,
+  "name": "Ashe",
+  "habilidades": [
+   "../../styles/img/habilidades/AsheQ.webp",
+   "../../styles/img/habilidades/AsheW.webp",
+   "../../styles/img/habilidades/AsheE.webp",
+   "../../styles/img/habilidades/Ashe.webp",
+   "../../styles/img/habilidades/Ashe_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Ashe-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Ashe.webp",
+  "region": [
+   "Freljord"
+  ],
+  "year": "2009",
+  "range": [
+   "Range"
+  ],
+  "sex": "Female",
+  "position": [
+   "ADC",
+   "Sup"
+  ],
+  "resource": "Maná",
+  "species": [
+   "Humano",
+   "Nacido del hielo"
+  ],
+  "lore": "Como Hija del Hielo y madre de guerra de la tribu Avarosa, Ashe comanda la más grande horda en el norte. Estoica, inteligente e idealista, pero incómoda con su rol de líder, ella aprovecha las magias ancestrales de su linaje para portar un arco de Hielo Puro. Apoyada por la creencia de su gente que ella es el héroe mitológico reencarnado de Avarosa, Ashe espera unificar el Fréljord una vez más al retomar sus tierras antiguas y tribales.",
+  "phrase": "''Una tribu, una gente, un Fréljord''"
+ },
+ {
+  "id": 11,
+  "name": "Aurelion Sol",
+  "habilidades": [
+   "../../styles/img/habilidades/AurelionSolQ.webp",
+   "../../styles/img/habilidades/AurelionSolW.webp",
+   "../../styles/img/habilidades/AurelionSolE.webp",
+   "../../styles/img/habilidades/AurelionSolR.webp",
+   "../../styles/img/habilidades/AurelionSol_P.webp"
+  ],
+  "img": "../../styles/img/campeones/AurelionSol-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/AurelionSol.webp",
+  "region": [
+   "Runaterra",
+   "Targon"
+  ],
+  "year": "2016",
+  "range": [
+   "Range"
+  ],
+  "sex": "Male",
+  "position": [
+   "Mid"
+  ],
+  "resource": "Maná",
+  "species": [
+   "Celestial",
+   "Dragón"
+  ],
+  "lore": "En otro tiempo, Aurelion Sol adornó el gran vacío del reino celestial con maravillas de su propia invención, pero fue engañado por los aspectos de Targón para que les revelara los secretos de un sol que él mismo creó. Su increíble poder fue canalizado hacia los inmortales dioses guerreros para proteger al aparentemente insignificante mundo de Runaterra. Ahora, deseoso de recuperar su dominio sobre el cosmos, Aurelion Sol bajaría cada estrella del cielo, si tuviera que hacerlo, con tal de recuperar su libertad.",
+  "phrase": "''Acobardarse. Rezar. Implorar. Todas son reacciones aceptables''"
+ },
+ {
+  "id": 12,
+  "name": "Azir",
+  "habilidades": [
+   "../../styles/img/habilidades/AzirQ.webp",
+   "../../styles/img/habilidades/AzirW.webp",
+   "../../styles/img/habilidades/AzirE.webp",
+   "../../styles/img/habilidades/AzirR.webp",
+   "../../styles/img/habilidades/Azir_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Azir-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Azir.webp",
+  "region": [
+   "Shurima"
+  ],
+  "year": "2014",
+  "range": [
+   "Range"
+  ],
+  "sex": "Male",
+  "position": [
+   "Mid"
+  ],
+  "resource": "Maná",
+  "species": [
+   "Dios-Guerrero"
+  ],
+  "lore": "Azir, emperador de Shurima en un pasado remoto, fue un hombre orgulloso que estuvo a punto de alcanzar la inmortalidad. Dominado por la arrogancia, fue traicionado y asesinado en la hora de su mayor triunfo. Pero ahora, milenios después, renació como un ser Ascendido de inmenso poder. Su enterrada ciudad resurgió de las arenas y Azir está decidido a restaurar la antigua gloria de Shurima.",
+  "phrase": "''Shurima fue alguna vez la gloria de Runaterra. Me encargaré de que lo vuelva a ser''"
+ },
+ {
+  "id": 13,
+  "name": "Bard",
+  "habilidades": [
+   "../../styles/img/habilidades/BardQ.webp",
+   "../../styles/img/habilidades/BardW.webp",
+   "../../styles/img/habilidades/BardE.webp",
+   "../../styles/img/habilidades/BardR.webp",
+   "../../styles/img/habilidades/Bard_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Bard-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Bard.webp",
+  "region": [
+   "Runaterra"
+  ],
+  "year": "2015",
+  "range": [
+   "Range"
+  ],
+  "sex": "Male",
+  "position": [
+   "Sup"
+  ],
+  "resource": "Maná",
+  "species": [
+   "Celestial"
+  ],
+  "lore": "El Bardo es un viajero de un reino más allá de las estrellas y un agente de la serendipia que lucha por conservar la armonía entre la creación y la fría indiferencia de lo que yace más allá de ella. Muchas canciones de Runaterra hablan sobre su extraordinaria naturaleza y todas ellas dicen que los artefactos de un inmenso poder mágico atraen al vagabundo cósmico. Rodeado por un alegre coro de espíritus de meeps, es imposible pensar que sus acciones sean malévolas, ya que el Bardo siempre busca servir al bien de todos... a su extraña manera.",
+  "phrase": "''Las campanillas que resuenan en sus pasos son ecos de cambio''"
+ },
+ {
+  "id": 14,
+  "name": "Bel'Veth",
+  "habilidades": [
+   "../../styles/img/habilidades/Bel'VethQ.webp",
+   "../../styles/img/habilidades/Bel'VethW.webp",
+   "../../styles/img/habilidades/Bel'VethE.webp",
+   "../../styles/img/habilidades/Bel'VethR.webp",
+   "../../styles/img/habilidades/Bel'Veth_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Bel'Veth-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Bel'Veth.webp",
+  "region": [
+   "El Vacio"
+  ],
+  "year": "2022",
+  "range": [
+   "Melee"
+  ],
+  "sex": "Female",
+  "position": [
+   "Jg"
+  ],
+  "resource": "Manaless",
+  "species": [
+   "Ser del vacio"
+  ],
+  "lore": "Una horripilante emperatriz nacida de la materia cruda de una ciudad devorada por completo, Bel'Veth es el propio fin de Runaterra... y el comienzo de una realidad monstruosa diseñada por ella misma. Impulsada por eras de historias, conocimientos y recuerdos reciclados del mundo de arriba, alimenta vorazmente una necesidad de nuevas experiencias y emociones en constante expansión que consume todo lo que se interpone en su camino. Pero un único mundo jamás podría saciar sus deseos, mientras sus ojos hambrientos se dirigen a los antiguos maestros del Vacío...",
+  "phrase": "''Este mundo no será olvidado. Lo reemplazaré: un infante devorando a su progenitor''"
+ },
+ {
+  "id": 15,
+  "name": "Blitzcrank",
+  "habilidades": [
+   "../../styles/img/habilidades/BlitzcrankQ.webp",
+   "../../styles/img/habilidades/BlitzcrankW.webp",
+   "../../styles/img/habilidades/BlitzcrankE.webp",
+   "../../styles/img/habilidades/BlitzcrankR.webp",
+   "../../styles/img/habilidades/Blitzcrank_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Blitzcrank-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Blitzcrank.webp",
+  "region": [
+   "Zaun"
+  ],
+  "year": "2009",
+  "range": [
+   "Melee"
+  ],
+  "sex": "Other",
+  "position": [
+   "Sup"
+  ],
+  "resource": "Mana",
+  "species": [
+   "Gólem"
+  ],
+  "lore": "Blitzcrank, un coloso de metal bruñido, vapor y electricidad centelleante, camina por las calles de Zaun en un esfuerzo incansable por mejorar el distrito suburbano y ayudar a aquellos que lo necesiten. Creado para descender a los ambientes más cáusticos y peligrosos de Zaun y eliminar los desechos peligrosos, ha evolucionado más allá de los límites de su programación original gracias al ingenio de su inventor y al misterioso poder de Hextech.",
+  "phrase": "''EL GIRO DE UN SOLO ENGRANAJE PUEDE MARCAR LA DIFERENCIA''"
+ },
+ {
+  "id": 16,
+  "name": "Brand",
+  "habilidades": [
+   "../../styles/img/habilidades/BrandQ.webp",
+   "../../styles/img/habilidades/BrandW.webp",
+   "../../styles/img/habilidades/BrandE.webp",
+   "../../styles/img/habilidades/BrandR.webp",
+   "../../styles/img/habilidades/Brand_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Brand-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Brand.webp",
+  "region": [
+   "Freljord",
+   "Runaterra"
+  ],
+  "year": "2011",
+  "range": [
+   "Range"
+  ],
+  "sex": "Male",
+  "position": [
+   "Sup",
+   "Mid"
+  ],
+  "resource": "Mana",
+  "species": [
+   "Humano",
+   "Mágicamente alterado"
+  ],
+  "lore": "La criatura conocida como Brand, quien alguna vez fuera Kegan Rhode, miembro de una tribu del gélido Fréljord, es una lección sobre la tentación de un poder mayor. En la búsqueda de una de las legendarias Runas Geogénicas, Kegan traicionó a sus compañeros y se la quedó para sí mismo; en un instante, el hombre dejó de serlo. Su alma se consumió, su cuerpo se convirtió en un recipiente de la llama viva. Ahora, Brand merodea en Valoran en busca de otras Runas, jurando vengarse por los males que ni en una decena de vidas mortales podría haber sufrido.",
+  "phrase": "“Este lugar arderá, no por culpa de una llama avivada por el viento, sino porque yo busco venganza”"
+ },
+ {
+  "id": 17,
+  "name": "Braum",
+  "habilidades": [
+   "../../styles/img/habilidades/BraumQ.webp",
+   "../../styles/img/habilidades/BraumW.webp",
+   "../../styles/img/habilidades/BraumE.webp",
+   "../../styles/img/habilidades/BraumR.webp",
+   "../../styles/img/habilidades/Braum_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Braum-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Braum.webp",
+  "region": [
+   "Freljord"
+  ],
+  "year": "2014",
+  "range": [
+   "Melee"
+  ],
+  "sex": "Male",
+  "position": [
+   "Sup"
+  ],
+  "resource": "Mana",
+  "species": [
+   "Humano",
+   "Nacido del hielo"
+  ],
+  "lore": "Dotado de bíceps inmensos y un corazón aún más grande, Braum es un querido héroe Hijo del Hielo del Fréljord. En todas las tabernas al norte de Frostheld brindan por su fuerza legendaria y se cuentan relatos de cómo taló un bosque de robles en una sola noche e hizo añicos una montaña entera de un solo puñetazo. Con una puerta de bóveda encantada forjada hace mucho tiempo como escudo, Braum recorre el norte congelado como un protector jovial y ayuda a los desvalidos mientras persigue su sueño de pacificar el Fréljord.",
+  "phrase": "“El corazon es el musculo más fuerte”"
+ },
+ {
+  "id": 18,
+  "name": "Caitlyn",
+  "habilidades": [
+   "../../styles/img/habilidades/CaitlynQ.webp",
+   "../../styles/img/habilidades/CaitlynW.webp",
+   "../../styles/img/habilidades/CaitlynE.webp",
+   "../../styles/img/habilidades/CaitlynR.webp",
+   "../../styles/img/habilidades/Caitlyn_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Caitlyn-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Caitlyn.webp",
+  "region": [
+   "Piltover"
+  ],
+  "year": "2011",
+  "range": [
+   "Range"
+  ],
+  "sex": "Female",
+  "position": [
+   "ADC"
+  ],
+  "resource": "Mana",
+  "species": [
+   "Humano"
+  ],
+  "lore": "Reconocida como la mejor pacificadora, Caitlyn también es la mejor oportunidad de Piltóver para deshacerse de los elementos criminales elusivos de su ciudad. A veces hace equipo con Vi y es un buen contrapunto para la naturaleza más impulsiva de su compañera. Aunque carga un rifle hextech único, el arma más poderosa de Caitlyn es su intelecto superior, el cual le permite tender trampas elaboradas para malhechores que son suficientemente tontos para operar en la Ciudad del Progreso.",
+  "phrase": "''Vamos, corre. Te daré cinco minutos de ventaja''"
+ },
+ {
+  "id": 19,
+  "name": "Camille",
+  "habilidades": [
+   "../../styles/img/habilidades/CamilleQ.webp",
+   "../../styles/img/habilidades/CamilleW.webp",
+   "../../styles/img/habilidades/CamilleE.webp",
+   "../../styles/img/habilidades/CamilleR.webp",
+   "../../styles/img/habilidades/Camille_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Camille-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Camille.webp",
+  "region": [
+   "Piltover"
+  ],
+  "year": "2016",
+  "range": [
+   "Melee"
+  ],
+  "sex": "Female",
+  "position": [
+   "Top"
+  ],
+  "resource": "Mana",
+  "species": [
+   "Cíborg",
+   "Humano"
+  ],
+  "lore": "Armada para operar fuera de los límites de la ley, Camille es la principal inteligencia del clan Ferros: una elegante agente de élite que se asegura de que la máquina de Piltóver y el submundo zaunita funcionen sin problemas. Adaptable y precisa, ve las técnicas torpes como una vergüenza que necesita ponerse en línea. Con una mente tan brillante y afilada como las cuchillas que porta, la búsqueda de Camille por la superioridad a través de las mejoras de cuerpo de Hextech han hecho que la gente se pregunte si es más máquina que mujer.",
+  "phrase": "‘‘La precisión es la diferencia entre un carnicero y un cirujano’’"
+ },
+ {
+  "id": 20,
+  "name": "Cassiopeia",
+  "habilidades": [
+   "../../styles/img/habilidades/CassiopeiaQ.webp",
+   "../../styles/img/habilidades/CassiopeiaW.webp",
+   "../../styles/img/habilidades/CassiopeiaE.webp",
+   "../../styles/img/habilidades/CassiopeiaR.webp",
+   "../../styles/img/habilidades/Cassiopeia_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Cassiopeia-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Cassiopeia.webp",
+  "region": [
+   "Noxus",
+   "Shurima"
+  ],
+  "year": "2010",
+  "range": [
+   "Range"
+  ],
+  "sex": "Female",
+  "position": [
+   "Top",
+   "Mid"
+  ],
+  "resource": "Mana",
+  "species": [
+   "Mágicamente alterado",
+   "Humano"
+  ],
+  "lore": "Cassiopeia es una criatura letal que disfruta manipular a otros para que hagan su voluntad. La más joven y hermosa hija de la noble familia Du Couteau de Noxus, se aventuró en las profundidades de las criptas debajo de Shurima en búsqueda de un poder antiguo. Ahí, la mordió un espantoso guardián de la tumba y su veneno la transformó en una depredadora similar a una víbora. Sagaz y ágil, Cassiopeia ahora se desliza bajo el velo de la noche y petrifica a sus enemigos con su maléfica mirada.",
+  "phrase": "''Los secretos tienen más filo que las cuchillas''"
+ },
+ {
+  "id": 21,
+  "name": "Cho'Gath",
+  "habilidades": [
+   "../../styles/img/habilidades/Cho'GathQ.webp",
+   "../../styles/img/habilidades/Cho'GathW.webp",
+   "../../styles/img/habilidades/Cho'GathE.webp",
+   "../../styles/img/habilidades/Cho'GathR.webp",
+   "../../styles/img/habilidades/Cho'Gath_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Cho'Gath-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Cho'Gath.webp",
+  "region": [
+   "El Vacio"
+  ],
+  "year": "2009",
+  "range": [
+   "Melee"
+  ],
+  "sex": "Male",
+  "position": [
+   "Top"
+  ],
+  "resource": "Mana",
+  "species": [
+   "Ser del vacio"
+  ],
+  "lore": "Desde el momento que Cho'Gath emergió por primera vez a la fuerte luz del sol de Runaterra, la bestia se vio consumida por el hambre más pura e insaciable. Como una expresión perfecta del deseo del Vacío para consumir toda vida conocida, la biología compleja de Cho'Gath convierte rápidamente la materia en más crecimiento para su cuerpo, aumentando su masa y densidad muscular o endureciendo su caparazón como diamante orgánico. Cuando crecer más no cumple con las necesidades del engendro del Vacío, este vomita el material excedente en forma de espinas filosas como navajas, dejando a la presa como brocheta, lista para comerse más tarde.",
+  "phrase": "''¡Tu alma alimentará el Vacío!''"
+ },
+ {
+  "id": 22,
+  "name": "Corki",
+  "habilidades": [
+   "../../styles/img/habilidades/CorkiQ.webp",
+   "../../styles/img/habilidades/CorkiW.webp",
+   "../../styles/img/habilidades/CorkiE.webp",
+   "../../styles/img/habilidades/CorkiR.webp",
+   "../../styles/img/habilidades/Corki_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Corki-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Corki.webp",
+  "region": [
+   "Ciudad de Bandle",
+   "Piltover"
+  ],
+  "year": "2009",
+  "range": [
+   "Range"
+  ],
+  "sex": "Male",
+  "position": [
+   "Mid"
+  ],
+  "resource": "Mana",
+  "species": [
+   "Yordle"
+  ],
+  "lore": "Corki, el piloto yordle, adora dos cosas sobre todo lo demás: volar y su glamoroso bigote... aunque no siempre en ese orden. Luego de dejar la Ciudad de Bandle, se estableció en Piltóver y se enamoró de las máquinas maravillosas que encontró ahí. Se dedicó al desarrollo de artilugios voladores, liderando una fuerza de defensa área de veteranos que se conocen como Serpientes Aulladoras. Corki, quien mantiene la calma bajo fuego enemigo, patrulla los cielos alrededor de su hogar adoptivo y nunca ha encontrado un problema que unos cuantos misiles no puedan resolver.",
+  "phrase": "''¡La muerte desde las alturas!''"
+ },
+ {
+  "id": 23,
+  "name": "Darius",
+  "habilidades": [
+   "../../styles/img/habilidades/DariusQ.webp",
+   "../../styles/img/habilidades/DariusW.webp",
+   "../../styles/img/habilidades/DariusE.webp",
+   "../../styles/img/habilidades/DariusR.webp",
+   "../../styles/img/habilidades/Darius_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Darius-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Darius.webp",
+  "region": [
+   "Noxus"
+  ],
+  "year": "2012",
+  "range": [
+   "Melee"
+  ],
+  "sex": "Male",
+  "position": [
+   "Top"
+  ],
+  "resource": "Mana",
+  "species": [
+   "Humano"
+  ],
+  "lore": "No hay símbolo más grande del poder noxiano que Darius, el líder más temido y endurecido por las batallas. Desde sus orígenes humildes hasta convertirse en la Mano de Noxus, Darius se encarga de los enemigos del imperio, aunque muchos de ellos sean noxianos. Sabiendo que él nunca dudará que su causa es justa y sin titubear una vez que su hacha se levanta, aquellos que están en contra del comandante de la Legión Trifariana no pueden esperar piedad.",
+  "phrase": "''La historia solo recuerda a los vencedores. Sé parte de Noxus y serás recordado por siempre''."
+ },
+ {
+  "id": 24,
+  "name": "Diana",
+  "habilidades": [
+   "../../styles/img/habilidades/DianaQ.webp",
+   "../../styles/img/habilidades/DianaW.webp",
+   "../../styles/img/habilidades/DianaE.webp",
+   "../../styles/img/habilidades/DianaR.webp",
+   "../../styles/img/habilidades/Diana_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Diana-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Diana.webp",
+  "region": [
+   "Targon"
+  ],
+  "year": "2012",
+  "range": [
+   "Melee"
+  ],
+  "sex": "Female",
+  "position": [
+   "Mid",
+   "Jg"
+  ],
+  "resource": "Mana",
+  "species": [
+   "Humano",
+   "Aspecto"
+  ],
+  "lore": "Con su espada de luna creciente y blindada con una resplandeciente armadura del color de la nieve invernal por la noche, Diana es la encarnación viviente del poder de la luna de plata. Imbuida con la esencia de un aspecto proveniente de más allá de la imponente cúspide del Monte Targón, Diana ya no es completamente humana y lucha por entender su poder y su propósito en este mundo.",
+  "phrase": "''Soy la luz que invade el alma de la luna''"
+ },
+ {
+  "id": 25,
+  "name": "Dr. Mundo",
+  "habilidades": [
+   "../../styles/img/habilidades/DrMundoQ.webp",
+   "../../styles/img/habilidades/DrMundoW.webp",
+   "../../styles/img/habilidades/DrMundoE.webp",
+   "../../styles/img/habilidades/DrMundoR.webp",
+   "../../styles/img/habilidades/DrMundo_P.webp"
+  ],
+  "img": "../../styles/img/campeones/DrMundo-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/DrMundo.webp",
+  "region": [
+   "Zaun"
+  ],
+  "year": "2009",
+  "range": [
+   "Melee"
+  ],
+  "sex": "Male",
+  "position": [
+   "Mid",
+   "Jg"
+  ],
+  "resource": "Consume vida",
+  "species": [
+   "Humano",
+   "Quimicamente Alterado"
+  ],
+  "lore": "El Dr. Mundo, completamente demente, trágicamente homicida y espeluznantemente morado, es la razón por la que los ciudadanos de Zaun permanecen en sus casas en las noches particularmente oscuras. Ahora un médico autoproclamado, en otra vida fue un paciente del manicomio más infame de Zaun. Después de ''curar'' a todo el personal, el Dr. Mundo estableció su consultorio en los pabellones vacíos que alguna vez lo albergaron y comenzó a imitar los procedimientos muy poco éticos que tantas veces había recibido él mismo. Con un armario lleno de medicamentos y cero conocimiento médico, cada inyección que se aplica aumenta su monstruosidad y aterroriza a los desafortunados ''pacientes'' que deambulan cerca de su consultorio.",
+  "phrase": "''Yo ser buen doctor. Pacientes nunca regresar''"
+ },
+ {
+  "id": 26,
+  "name": "Draven",
+  "habilidades": [
+   "../../styles/img/habilidades/DravenQ.webp",
+   "../../styles/img/habilidades/DravenW.webp",
+   "../../styles/img/habilidades/DravenE.webp",
+   "../../styles/img/habilidades/DravenR.webp",
+   "../../styles/img/habilidades/Draven_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Draven-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Draven.webp",
+  "region": [
+   "Noxus"
+  ],
+  "year": "2012",
+  "range": [
+   "Range"
+  ],
+  "sex": "Male",
+  "position": [
+   "ADC"
+  ],
+  "resource": "Mana",
+  "species": [
+   "Humano"
+  ],
+  "lore": "En Noxus, algunos guerreros se enfrentan unos a otros en arenas donde la sangre corre y la fuerza se pone a prueba, pero nadie ha sido tan celebrado como Draven. Este antiguo soldado encontró que el público apreciaba en realidad su habilidad para lo dramático, sin mencionar los chorros de sangre que emergían de cada una de sus hachas giratorias. Adicto al espectáculo de su propia perfección descarada, Draven juró vencer a quien sea necesario para asegurar que su nombre se cante por todo el imperio durante toda la eternidad.",
+  "phrase": "''La excelencia está allá donde yo decida poner el listón cada día''"
+ },
+ {
+  "id": 27,
+  "name": "Ekko",
+  "habilidades": [
+   "../../styles/img/habilidades/EkkoQ.webp",
+   "../../styles/img/habilidades/EkkoW.webp",
+   "../../styles/img/habilidades/EkkoE.webp",
+   "../../styles/img/habilidades/EkkoR.webp",
+   "../../styles/img/habilidades/Ekko_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Ekko-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Ekko.webp",
+  "region": [
+   "Zaun"
+  ],
+  "year": "2015",
+  "range": [
+   "Melee"
+  ],
+  "sex": "Male",
+  "position": [
+   "Jungla",
+   "Medio"
+  ],
+  "resource": "Mana",
+  "species": [
+   "Humano"
+  ],
+  "lore": "Un prodigio proveniente de las duras calles de Zaun, Ekko manipula el tiempo para revertir cualquier situación a su favor. Con su propio invento, el Pulsar-Z, explora las múltiples posibilidades de la realidad para crear el momento perfecto. Si bien se divierte con su libertad, cuando algo amenaza a sus amigos, hará lo que sea necesario para defenderlos. Para los extraños, Ekko parece lograr lo imposible en el primer intento, en todas las ocasiones.",
+  "phrase": "''Mis dispositivos funcionan mejor cuando no tienen el efecto esperado... lo que ocurre casi todo el tiempo''"
+ },
+ {
+  "id": 28,
+  "name": "Elise",
+  "habilidades": [
+   "../../styles/img/habilidades/EliseQ.webp",
+   "../../styles/img/habilidades/EliseW.webp",
+   "../../styles/img/habilidades/EliseE.webp",
+   "../../styles/img/habilidades/EliseR.webp",
+   "../../styles/img/habilidades/Elise_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Elise-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Elise.webp",
+  "region": [
+   "Noxus",
+   "Islas de las Sombras"
+  ],
+  "year": "2012",
+  "range": [
+   "Melee",
+   "Range"
+  ],
+  "sex": "Female",
+  "position": [
+   "Jungla"
+  ],
+  "resource": "Mana",
+  "species": [
+   "Humano",
+   "Humano magicamente alterado"
+  ],
+  "lore": "Elise es una depredadora letal que mora en un palacio sin luz ni ventanas, en las profundidades de la ciudad más antigua de Noxus. Alguna vez fue la señora de una poderosa casa noble, pero la picadura de un malvado dios araña la transformó en algo totalmente inhumano, sin perder su belleza: una criatura arácnida que atrae presas ilusas a su telaraña. Elise se aprovecha de inocentes e incrédulos, y muy pocos son capaces de resistirse a sus encantos.",
+  "phrase": "''La belleza es otra forma de poder, capaz de golpear más fuerte que cualquier espada''"
+ },
+ {
+  "id": 29,
+  "name": "Elise",
+  "habilidades": [
+   "../../styles/img/habilidades/EliseQ.webp",
+   "../../styles/img/habilidades/EliseW.webp",
+   "../../styles/img/habilidades/EliseE.webp",
+   "../../styles/img/habilidades/EliseR.webp",
+   "../../styles/img/habilidades/Elise_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Elise-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Elise.webp",
+  "region": [
+   "Noxus",
+   "Islas de las Sombras"
+  ],
+  "year": "2012",
+  "range": [
+   "Melee",
+   "Range"
+  ],
+  "sex": "Female",
+  "position": [
+   "Jungla"
+  ],
+  "resource": "Mana",
+  "species": [
+   "Humano",
+   "Humano magicamente alterado"
+  ],
+  "lore": "Elise es una depredadora letal que mora en un palacio sin luz ni ventanas, en las profundidades de la ciudad más antigua de Noxus. Alguna vez fue la señora de una poderosa casa noble, pero la picadura de un malvado dios araña la transformó en algo totalmente inhumano, sin perder su belleza: una criatura arácnida que atrae presas ilusas a su telaraña. Elise se aprovecha de inocentes e incrédulos, y muy pocos son capaces de resistirse a sus encantos.",
+  "phrase": "''La belleza es otra forma de poder, capaz de golpear más fuerte que cualquier espada''"
+ },
+ {
+  "id": 30,
+  "name": "Evelynn",
+  "habilidades": [
+   "../../styles/img/habilidades/EvelynnQ.webp",
+   "../../styles/img/habilidades/EvelynnW.webp",
+   "../../styles/img/habilidades/EvelynnE.webp",
+   "../../styles/img/habilidades/EvelynnR.webp",
+   "../../styles/img/habilidades/Evelynn_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Evelynn-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Evelynn.webp",
+  "region": [
+   "Runaterra"
+  ],
+  "year": "2009",
+  "range": [
+   "Melee"
+  ],
+  "sex": "Female",
+  "position": [
+   "Jungla"
+  ],
+  "resource": "Mana",
+  "species": [
+   "Demonio",
+   "Espíritu"
+  ],
+  "lore": "Dentro de las oscuras vetas de Runaterra, la demonio Evelynn acecha a su siguiente víctima. Seduce a su presa con la apariencia voluptuosa de una mujer humana, pero una vez que alguien sucumbe ante sus encantos, Evelynn revela su verdadera forma. Es en ese momento somete a su víctima a un inimaginable tormento y se deleita con su dolor. Para el demonio, estos encuentros son amoríos inocentes. Para el resto de Runaterra, son historias macabras de lujuria que terminaron mal y atroces recordatorios del costo que tiene el deseo lascivo.",
+  "phrase": "''¿Tienes planes esta noche? ¿Qué te parece si nos juntamos y liberamos esa enorme tormenta en tu interior?''"
+ },
+ {
+  "id": 31,
+  "name": "Ezreal",
+  "habilidades": [
+   "../../styles/img/habilidades/EzrealQ.webp",
+   "../../styles/img/habilidades/EzrealW.webp",
+   "../../styles/img/habilidades/EzrealE.webp",
+   "../../styles/img/habilidades/EzrealR.webp",
+   "../../styles/img/habilidades/Ezreal_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Ezreal-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Ezreal.webp",
+  "region": [
+   "Piltover"
+  ],
+  "year": "2010",
+  "range": [
+   "Range"
+  ],
+  "sex": "Male",
+  "position": [
+   "ADC"
+  ],
+  "resource": "Mana",
+  "species": [
+   "Humano",
+   "Nacido con magia"
+  ],
+  "lore": "Un aventurero deslumbrante, inconscientemente talentoso para las artes mágicas, Ezreal saquea catacumbas hace mucho tiempo perdidas, se enreda en antiguas maldiciones y supera probabilidades aparentemente imposibles con ligereza. Su valentía y bravuconería no conocen límites; prefiere improvisar su manera de escapar de cualquier situación, sobre todo confiando en su ingenio, pero más que nada en su místico guantelete shurimano, que usa para desatar devastadores golpes arcanos. Pero una cosa es cierta: cada vez que Ezreal está cerca, los problemas no demoran en llegar. O incluso se adelantan. Seguramente están en todos lados.",
+  "phrase": "''Si no conozco las reglas, ¿entonces cómo puedo estar rompiéndolas?''"
+ },
+ {
+  "id": 31,
+  "name": "FiddleSticks",
+  "habilidades": [
+   "../../styles/img/habilidades/FiddleSticksQ.webp",
+   "../../styles/img/habilidades/FiddleSticksW.webp",
+   "../../styles/img/habilidades/FiddleSticksE.webp",
+   "../../styles/img/habilidades/FiddleSticksR.webp",
+   "../../styles/img/habilidades/FiddleSticks_P.webp"
+  ],
+  "img": "../../styles/img/campeones/FiddleSticks-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/FiddleSticks.webp",
+  "region": [
+   "Runaterra"
+  ],
+  "year": "2009",
+  "range": [
+   "Range"
+  ],
+  "sex": "Other",
+  "position": [
+   "Jg"
+  ],
+  "resource": "Mana",
+  "species": [
+   "Demonio",
+   "Espíritu"
+  ],
+  "lore": "Algo ha despertado en Runaterra. Algo ancestral. Algo terrible. El horror eterno conocido como Fiddlesticks acecha los bordes de la sociedad mortal, atraído por los espacios en donde la paranoia abunda, en los que se alimenta de sus aterradas víctimas. Acompañado de una guadaña dentada, la criatura demacrada y burda siega el miedo mismo y reduce a añicos las mentes de los desafortunados sobrevivientes tras su paso. Cuidado con el graznido del cuervo o con el suspiro de la forma que parece ser casi humana: Fiddlesticks ha vuelto.",
+  "phrase": "''Nos persigue. Sabe a qué le tememos''"
+ },
+ {
+  "id": 32,
+  "name": "Fiora",
+  "habilidades": [
+   "../../styles/img/habilidades/FioraQ.webp",
+   "../../styles/img/habilidades/FioraW.webp",
+   "../../styles/img/habilidades/FioraE.webp",
+   "../../styles/img/habilidades/FioraR.webp",
+   "../../styles/img/habilidades/Fiora_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Fiora-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Fiora.webp",
+  "region": [
+   "Demacia"
+  ],
+  "year": "2012",
+  "range": [
+   "Melee"
+  ],
+  "sex": "Female",
+  "position": [
+   "Top"
+  ],
+  "resource": "Mana",
+  "species": [
+   "Humano"
+  ],
+  "lore": "La duelista más temida en todo Valoran, Fiora es conocida por sus modos ásperos e ingenio político tanto como por la velocidad de su florete. Nacida en el seno de la noble familia Laurent en Demacia, Fiora reclamó el legado familiar de su padre tras un escándalo que casi los destruyó. Ahora se dedica a restaurar el lugar merecido de los Laurent entre los grandes y buenos del reino.",
+  "phrase": "''He venido a matarte por una cuestión de honor. Y aunque no poseas ninguno, morirás de cualquier modo''.."
+ },
+ {
+  "id": 33,
+  "name": "Fizz",
+  "habilidades": [
+   "../../styles/img/habilidades/FizzQ.webp",
+   "../../styles/img/habilidades/FizzW.webp",
+   "../../styles/img/habilidades/FizzE.webp",
+   "../../styles/img/habilidades/FizzR.webp",
+   "../../styles/img/habilidades/Fizz_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Fizz-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Fizz.webp",
+  "region": [
+   "Aguas Estancadas"
+  ],
+  "year": "2011",
+  "range": [
+   "Melee"
+  ],
+  "sex": "Male",
+  "position": [
+   "Mid"
+  ],
+  "resource": "Mana",
+  "species": [
+   "Yordel"
+  ],
+  "lore": "Fizz es un yordle anfibio que habita entre los arrecifes que rodean a Aguasturbias. A menudo recupera y regresa las monedas lanzadas al mar por capitanes supersticiosos, pero hasta los marineros más escépticos saben que no deben contrariarlo; hay muchas historias de aquellos que subestimaron a este resbaloso personaje. A veces confundido con un caprichoso espíritu del océano, se dice que es capaz de controlar a las bestias de las profundidades y que disfruta despistando a aliados y enemigos por igual.",
+  "phrase": "''Ustedes ni siquiera pueden respirar bajo el agua. Son aburridos''."
+ },
+ {
+  "id": 34,
+  "name": "Galio",
+  "habilidades": [
+   "../../styles/img/habilidades/GalioQ.webp",
+   "../../styles/img/habilidades/GalioW.webp",
+   "../../styles/img/habilidades/GalioE.webp",
+   "../../styles/img/habilidades/GalioR.webp",
+   "../../styles/img/habilidades/Galio_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Galio-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Galio.webp",
+  "region": [
+   "Demacia"
+  ],
+  "year": "2010",
+  "range": [
+   "Melee"
+  ],
+  "sex": "Male",
+  "position": [
+   "Mid",
+   "Sup"
+  ],
+  "resource": "Mana",
+  "species": [
+   "Gólem"
+  ],
+  "lore": "En las afueras de la Gran Ciudad de Demacia, Galio, el coloso de piedra, se mantiene en guardia constante. Construido como un baluarte contra los magos enemigos, se mantiene inmóvil durante décadas hasta que la presencia de una magia poderosa lo despierte. Una vez activado, Galio pasa la mayor parte del tiempo saboreando la emoción del combate y el excepcional honor de defender a sus compatriotas. Pero sus triunfos siempre son agridulces, pues la magia que él destruye también es la fuente de su reanimación y cada victoria provoca que vuelva, de nueva cuenta, a su letargo.",
+  "phrase": "''¡Detrás de mí, demaciano! Tal vez no lo hayas notado, pero soy muy grande''"
+ },
+ {
+  "id": 35,
+  "name": "Gangplank",
+  "habilidades": [
+   "../../styles/img/habilidades/GangplankQ.webp",
+   "../../styles/img/habilidades/GangplankW.webp",
+   "../../styles/img/habilidades/GangplankE.webp",
+   "../../styles/img/habilidades/GangplankR.webp",
+   "../../styles/img/habilidades/Gangplank_P.webp"
+  ],
+  "img": "../../styles/img/campeones/Gangplank-img.jpg",
+  "icono": "../../styles/img/iconos-campeones/Gangplank.webp",
+  "region": [
+   "a"
+  ],
+  "year": "2010",
+  "range": [
+   "Melee"
+  ],
+  "sex": "Male",
+  "position": [
+   "Mid",
+   "Top"
+  ],
+  "resource": "Mana",
+  "species": [
+   "Humano"
+  ],
+  "lore": "En las afueras de la Gran Ciudad de Demacia, Galio, el coloso de piedra, se mantiene en guardia constante. Construido como un baluarte contra los magos enemigos, se mantiene inmóvil durante décadas hasta que la presencia de una magia poderosa lo despierte. Una vez activado, Galio pasa la mayor parte del tiempo saboreando la emoción del combate y el excepcional honor de defender a sus compatriotas. Pero sus triunfos siempre son agridulces, pues la magia que él destruye también es la fuente de su reanimación y cada victoria provoca que vuelva, de nueva cuenta, a su letargo.",
+  "phrase": "''¡Detrás de mí, demaciano! Tal vez no lo hayas notado, pero soy muy grande''"
+ }
+]
