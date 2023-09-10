@@ -7,7 +7,7 @@ router.get('/:campeon', indexController.campeon);
 
 router.delete("/:id", indexController.deleteChamp);
 
-router.patch("/:id", indexController.updateChamp)
+router.put("/:champ", indexController.updateChamp)
 
 router.post("/newChamp", indexController.newChamp);
 

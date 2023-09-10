@@ -1,3 +1,4 @@
+const { Console } = require("console");
 const fs = require("fs");
 const listaJson =  __dirname + '/../json/lolChamps.json';
 const getData = ()=>{
@@ -117,7 +118,8 @@ const controller = {
 				
 	},
 	updateChamp: function(req,res){
-
+		const { name,habilidades,img,icono,region,year,range,sex,position,resource,species,lore,phrase }=req.body;
+		let resultado;
 		getData()
 		.then(data => {
 
@@ -125,12 +127,54 @@ const controller = {
 
 		})
 		.then(data =>{
-
-			let newList = data.filter(champ=> champ.id !== id);
-			console.log(newList[1].id)
-			fs.writeFileSync(listaJson, JSON.stringify(newList, null," "));
+			let resultado;
+			let nombre = req.params.champ;
 			
-			res.status(200).json(newList)
+
+			if((name && habilidades && img && icono && region && year && range && sex && position && resource && species && lore && phrase) && 
+				(name != "" && habilidades != "" && img != "" && icono != "" && region != "" && year != "" && range != "" && sex != "" && position
+				 != "" && resource != "" && species != "" && lore != "" && phrase != "")){
+				
+					if(lore.length > 50){	
+						
+						data.forEach((champ)=>{	
+
+							if(champ.name == nombre){
+								resultado = 1,
+								champ.name = name,
+								champ.habilidades = habilidades,
+								champ.img = img,
+								champ.icono = icono,
+								champ.region = region,
+								champ.year = year,
+								champ.range = range,
+								champ.sex = sex,
+								champ.position = position,
+								champ.resource = resource,
+								champ.species = species,
+								champ.lore = lore,
+								champ.phrase = phrase
+							}
+							
+						})
+						if(resultado == 1){
+							
+							fs.writeFileSync(listaJson, JSON.stringify(data, null, " "))
+							res.status(200).json(data);
+						}else{
+							res.status(404).json("Campeon no encontrado");
+						}
+				
+
+						
+
+					}else{
+						res.status(404).json("El lore debe tener mas de 50 caracteres");
+
+					}
+				}else{
+					res.status(404).json("No se admiten campos vacios");
+				}
 		})
 
 
@@ -147,15 +191,13 @@ const controller = {
 
 			})
 			.then(data =>{
-
-
-			
 				
 				let newList = data.filter(champ=> champ.id !== id);
 				console.log(newList[1].id)
 				fs.writeFileSync(listaJson, JSON.stringify(newList, null," "));
 				
 				res.status(200).json(newList)
+
 			})
 	}
 };
